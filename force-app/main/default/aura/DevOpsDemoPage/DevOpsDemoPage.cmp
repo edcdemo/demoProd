@@ -1,0 +1,18 @@
+<aura:component implements="force:appHostable" >
+    
+    <lightning:card title="DevOps Demo Page" iconName="custom:custom67">
+        
+        
+        <div class="slds-align_absolute-center">
+           Developer edcDev:
+        </div>
+        
+        <div class="slds-align_absolute-center">
+           Developer edcDev2:            
+        </div>
+        
+        <div class="slds-card__footer">
+            This page will show updates once they are deployed.           
+        </div>
+    </lightning:card>
+</aura:component>
